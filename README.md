@@ -16,4 +16,5 @@ has been left on during data loads, the transaction log retrieval can run for lo
 * The ACG TM1Backup tool is used to create backup copies of the IBM PA "data" directory.  This tool allows the IBM PA Administrator to specify a number of backup files to maintain as well as specify the number of logs files to maintain.
 # FindIt.exe
 * Search Data directory for files containing string
+* Searches *.pro, *.rux, and *.sub
 * FindIt.exe <string\> <data_directory\> <output path and filename\>
