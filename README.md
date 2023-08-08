@@ -14,3 +14,6 @@ has been left on during data loads, the transaction log retrieval can run for lo
 * The  PyPromote utility allows IBM Planning Analytics administrators to deploy asset between model without the need for a model restart.   When deploying updated objects to other environments (e.g. Dev, Test, Prod, etc.), administrators have historically needed to bring down the target instance, copy files, and restart the model.  This is a time-consuming practice that can be difficult to track.  With PyPromote, all deployments are tracked in a cube within the model.
 # TM1Backup.exe
 * The ACG TM1Backup tool is used to create backup copies of the IBM PA "data" directory.  This tool allows the IBM PA Administrator to specify a number of backup files to maintain as well as specify the number of logs files to maintain.
+# FindIt.exe
+* Search Data directory for files containing string
+* FindIt.exe <string\> <data_directory\> <output path and filename\>
