@@ -1,6 +1,6 @@
 # ACG Utilities for IBM Planning Analytics
 
-## ACG Model Documenter.exe
+## ACG Reveal.exe
 * When attached to an IBM Planning Analytics model, this utility will output a Microsoft Excel document detailing all assets with the model.
 ## ACG Model Cleaner
 (Source Code): https://github.com/ACG-Code/ACGModelClean
